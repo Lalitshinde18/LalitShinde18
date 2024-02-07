@@ -1,4 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AB0F7&random=false&width=435&lines=Welcome+TO+My+GITHUB+PROFILE" alt="Typing SVG" /></a>
+</h1>
 <h1 align="center">Hi 👋, I'm Lalit Shinde</h1>
 <h3 align="center">A passionate Full Stack Development</h3>
 
