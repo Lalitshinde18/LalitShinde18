@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java ,Html ,css , Javascript**
 
-- 👨‍💻 Portfolio [https://lalitshinde18.github.io/Lalit_Portfolio.github.io/](https://lalitshinde18.github.io/Lalit_Portfolio.github.io/)
+- 👨‍💻 Portfolio [https://lalitshinde18.github.io/LalitShinde18./](https://lalitshinde18.github.io/LalitShinde18./)
 
 - 💬 Ask me about **Java**
 
